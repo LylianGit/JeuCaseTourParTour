@@ -1,0 +1,17 @@
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.csproj.AssemblyReference.cache
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.Form1.resources
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.csproj.GenerateResource.cache
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.AssemblyInfoInputs.cache
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.AssemblyInfo.cs
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.csproj.CoreCompileInputs.cache
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\bin\Debug\net6.0-windows\JeuCaseTourParTour.exe
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\bin\Debug\net6.0-windows\JeuCaseTourParTour.deps.json
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\bin\Debug\net6.0-windows\JeuCaseTourParTour.runtimeconfig.json
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\bin\Debug\net6.0-windows\JeuCaseTourParTour.dll
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\bin\Debug\net6.0-windows\JeuCaseTourParTour.pdb
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.dll
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\refint\JeuCaseTourParTour.dll
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.pdb
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\JeuCaseTourParTour.genruntimeconfig.cache
+C:\Users\lylia\source\repos\JeuCaseTourParTour\JeuCaseTourParTour\obj\Debug\net6.0-windows\ref\JeuCaseTourParTour.dll
